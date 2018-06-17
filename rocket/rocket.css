@@ -1,0 +1,12 @@
+#imgContainertb {height: 120;width: 100;overflow: hidden;}
+#imgContainertb img {position: absolute;clip: rect(0, 85px, 100px, 0);} /* Fuel */
+#imgContainercc {height: 120;width: 100;overflow: hidden;}
+#imgContainercc img {position: absolute;clip: rect(0, 150px, 100px, 0);} /* Wings */
+#imgContainerlg {height: 120;width: 100;overflow: hidden;}
+#imgContainerlg img {position: absolute;clip: rect(0, 215px, 100px, 0);} /* Middle compartment */
+#imgContainerkp {height: 120;width: 100;overflow: hidden;}
+#imgContainerkp img {position: absolute;clip: rect(0, 200px, 100px, 0);}
+#imgContainervk {height: 120;width: 100;overflow: hidden;}
+#imgContainervk img {position: absolute;clip: rect(0, 250px, 100px, 0);} /* Full Rocket */
+#imgContainerbs {height: 120;width: 100;overflow: hidden;}
+#imgContainerbs img {position: absolute;clip: rect(0, 218px, 100px, 0);} /* Minus Cabin */
